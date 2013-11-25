@@ -1,1 +1,0 @@
-This is the file that we contributed to the project.
